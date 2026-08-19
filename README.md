@@ -49,7 +49,7 @@ This analysis addresses these challenges by transforming raw transaction data in
 ### 2. RFM Behavioral Profiling & Product Performance
 | RFM Segment Distribution & Revenue Share | Top Products (Champion Segment) |
 | :---: | :---: |
-| ![RFM Segment Distribution](assets/RFM%20Segment%20Distribution%20%26%20Revenue%20Share.png) | ![Top 5 Products](assets/Top%205%20Revenue-Generating%20Products:%20Champion%20Segment.png) |
+| ![RFM Segment Distribution](assets/RFM%20Segment%20Distribution%20%26%20Revenue%20Share.png) | ![Top 5 Products](assets/Top%205%20Revenue-Generating%20Products%20Champion%20Segment.png) |
 
 * **Revenue Concentration:** The **Champions** segment represents a critical revenue pillar, generating the vast majority of total monetary value despite constituting a smaller subset of the overall customer base.
 * **Dormant Base Exposure:** A substantial portion of historical accounts fall under **Hibernating** and **About To Sleep** statuses, requiring structured re-engagement mechanisms to prevent permanent churn.
