@@ -3,6 +3,7 @@
 An end-to-end customer analytics and retention framework for an e-commerce platform using **Python** and **DuckDB SQL**. Features executive KPI tracking, 10-tier RFM customer segmentation, cohort retention analysis, and historical CLV profiling with an automated multi-sheet Excel export pipeline.
 
 ---
+**Dataset Source:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
 
 ## Project Overview
 This project provides an end-to-end customer analytics and retention framework for an e-commerce platform using Python and DuckDB SQL. The analysis evaluates high-level business KPIs, classifies active customers into 10 distinct behavioral segments via RFM (Recency, Frequency, Monetary) modeling, tracks monthly cohort retention rates, and evaluates Historical Customer Lifetime Value (CLV).
