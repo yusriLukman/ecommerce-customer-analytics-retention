@@ -61,14 +61,19 @@ This analysis addresses these challenges by transforming raw transaction data in
 ## Strategic Recommendations & Action Plan
 
 1. **Optimize Onboarding Strategy (Days 1–30):**  
-   Implement automated post-purchase email onboarding sequences and first-repeat order incentives to mitigate the heavy retention drop-off observed immediately after Month 1.
+   Implement automated post-purchase email onboarding sequences and first repeat order incentives (e.g., time-bound discount vouchers for the 2nd purchase) to mitigate the heavy retention drop-off observed immediately after Month 1.
 
-2. **Targeted Churn Re-Engagement:**  
-   Deploy personalized win-back campaigns for **At Risk** customers utilizing cross-sell recommendations derived from top-performing product SKUs.
+2. **Targeted Churn Re-Engagement for At-Risk Base:**  
+   Deploy personalized win-back campaigns for **At Risk** and **About To Sleep** customers utilizing cross-sell product recommendations derived from top-performing product SKUs.
 
-3. **VIP Loyalty Program for Champions:**  
+3. **Nurture High-Potential Customers:**  
+   Focus on converting **Potential Loyalists** into long-term repeat buyers through threshold-based loyalty incentives (e.g., "Spend $X more to unlock free shipping/VIP perks").
+
+4. **VIP Loyalty Program for Champions:**  
    Establish exclusive loyalty tiers, early product access, and dedicated support for **Champions** to safeguard core revenue streams and maintain high lifetime value.
 
+5. **Geographic Revenue Diversification:**  
+   Allocate a dedicated testing budget to scale marketing campaigns in top-performing **Non-UK markets** to reduce heavy revenue dependency on the UK domestic market.
 ---
 
 ## Repository Structure
